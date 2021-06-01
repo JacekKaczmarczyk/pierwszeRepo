@@ -1,0 +1,2 @@
+# pierwszeRepo
+Testing Git
